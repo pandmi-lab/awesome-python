@@ -100,8 +100,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [p](https://github.com/qw3rtman/p) - Dead simple interactive Python version management.
 * [pyenv](https://github.com/yyuu/pyenv) - Simple Python version management.
-* [PyRun](https://www.egenix.com/products/python/PyRun/) - A one-file, no-installation-needed version of Python.
-* [Vex](https://github.com/sashahart/vex) - Run a command in the named virtualenv.
+* [venv](https://docs.python.org/3/library/venv.html) - (Python standard library in Python 3.3+) Creating lightweight virtual environments.
 * [virtualenv](https://pypi.python.org/pypi/virtualenv) - A tool to create isolated Python environments.
 * [virtualenvwrapper](https://pypi.python.org/pypi/virtualenvwrapper) - A set of extensions to virtualenv.
 
